@@ -66,7 +66,7 @@ tic-tac-toe-python/
 
 🤝 Connect With Me
 📧 Email: ritik26cs103@satiengg.in
-🔗 LinkedIn: Ritik Gujre
+🔗 LinkedIn: www.linkedin.com/in/ritikgujre
 
 📝 License
 This project is open source and available under the MIT License.
